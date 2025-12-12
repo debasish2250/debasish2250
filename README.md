@@ -42,11 +42,6 @@ public class Full-Stack Developer {
     public void sayHi() {
         System.out.println("Thanks for dropping by, hope you find some of my work interesting.");
     }
-
-    public static void main(String[] args) {
-        SoftwareEngineer me = new SoftwareEngineer();
-        me.sayHi();
-    }
 }
 
 
