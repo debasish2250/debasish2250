@@ -27,7 +27,7 @@
 
 ```Java {
 
-public class Full-Stack Developer {
+public class Java {
 
     private String name;
     private String role;
@@ -36,7 +36,7 @@ public class Full-Stack Developer {
     public Full-Stack Developer() {
         this.name = "Debasish Rout";
         this.role = "Full-Stack Developer";
-        this.languagesSpoken = new String[] { "en_US", "hi_IN" };
+        this.languagesSpoken = new String[] { "English", "Hindi" };
     }
 
     public void sayHi() {
